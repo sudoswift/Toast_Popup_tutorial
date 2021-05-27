@@ -4,3 +4,4 @@
 ## Reference
 - [github](https://github.com/exyte/PopupView)
 - [youtube](https://www.youtube.com/watch?v=2S830TyLpI0)
+- [installing pods](https://value-of-life.tistory.com/152)
